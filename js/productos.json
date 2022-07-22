@@ -4,95 +4,95 @@
         "precio": 1600,
         "oferta": 1500,
         "titulo": "Jordan 1 low",
-        "descripcion": "hola",
+        "descripcion": "Travis Scott Fragment",
         "imagen":"./img/Jordan 1.png"
     },
     {
         "id":2,
         "precio": 1930,
-        "oferta": 1000,
-        "titulo": "Dunk SV Low",
-        "descripcion": "hola",
+        "oferta": 1800,
+        "titulo": "Dunk SB Low",
+        "descripcion": "Travis Scott",
         "imagen":"./img/Dunk Travis.png"
     },
     {
         "id":3,
-        "precio": 350,
-        "oferta": 1000,
+        "precio": 450,
+        "oferta": 400,
         "titulo": "Jordan 1 Retro High",
-        "descripcion": "hola",
+        "descripcion": "Dark Mocha",
         "imagen":"./img/Jordanhigh mocha.png"
     },
     {
         "id":4,
-        "precio": 320,
-        "oferta": 1000,
+        "precio": 420,
+        "oferta": 320,
         "titulo": "Jordan 1 Retro High",
-        "descripcion": "hola",
+        "descripcion": "Hyper Royal",
         "imagen":"./img/zapatilla 4.png"
     },
     {
         "id":5,
-        "precio": 1800,
-        "oferta": 1000,
+        "precio": 2000,
+        "oferta": 1800,
         "titulo": "Jordan 4 Retro",
-        "descripcion": "hola",
+        "descripcion": "Off-White Sail",
         "imagen":"./img/zapatilla5.png"
     },
     {
         "id":6,
-        "precio": 415,
-        "oferta": 1000,
+        "precio": 515,
+        "oferta": 430,
         "titulo": "Nike Dunk Low",
-        "descripcion": "hola",
+        "descripcion": "Off-White Lot 15",
         "imagen":"./img/zapatilla6.png"
     },
     {
         "id":7,
-        "precio": 175,
-        "oferta": 1000,
+        "precio": 180,
+        "oferta": 170,
         "titulo": "Converse Chuck Taylor All-Star 70 Ox",
-        "descripcion": "hola",
+        "descripcion": "Comme de Garcons Play Multi Heart",
         "imagen":"./img/zapatilla7.png"
     },
     {
         "id":8,
-        "precio": 100,
-        "oferta": 1000,
+        "precio": 200,
+        "oferta": 100,
         "titulo": "Air Force 1 Low 07",
-        "descripcion": "hola",
+        "descripcion": "White",
         "imagen":"./img/zapatilla8.png"
     },
     {
         "id":9,
-        "precio": 300,
-        "oferta": 1000,
+        "precio": 400,
+        "oferta": 300,
         "titulo": "Dunk Low",
-        "descripcion": "hola",
+        "descripcion": "Vintage Green",
         "imagen":"./img/zapatilla9.png"
     },
     {
         "id":10,
-        "precio": 650,
-        "oferta": 1000,
-        "titulo": "Jordan 4 Letro",
-        "descripcion": "hola",
+        "precio": 775,
+        "oferta": 675,
+        "titulo": "Jordan 4 Retro",
+        "descripcion": "Union Guava Ice",
         "imagen":"./img/zapatilla10.png"
     },
     {
         "id":11,
-        "precio": 200,
-        "oferta": 1000,
+        "precio": 2100,
+        "oferta": 2000,
         "titulo": "Jordan 1 Retro Low OG SP",
-        "descripcion": "hola",
+        "descripcion": "Travis Scott Reserve Mocha",
         "imagen":"./img/zapatilla11.png"
     },
     {
         "id":12,
-        "precio": 300,
-        "oferta": 1000,
-        "titulo": "Jordan 1 Lowl",
-        "descripcion": "hola",
+        "precio": 400,
+        "oferta": 300,
+        "titulo": "Jordan 1 Low",
+        "descripcion": "Wolf Grey",
         "imagen":"./img/zapatilla12.png"
     }
 ]

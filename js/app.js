@@ -217,4 +217,5 @@ function vaciarCarrito() {
 function vaciarCarritoLocal() {
      localStorage.clear()
      vaciarCarrito()
+     location.reload()
 }
